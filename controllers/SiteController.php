@@ -100,7 +100,7 @@ class SiteController extends Controller
 
     public function actionTest()
     {
-        return $this->render('test');
+        return $this->render('test'); 
     }
 
     /**
